@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 2963695 */
+    src: url('//at.alicdn.com/t/font_2963695_8tkqt76h90b.woff2?t=1637766616751') format('woff2'),
+         url('//at.alicdn.com/t/font_2963695_8tkqt76h90b.woff?t=1637766616751') format('woff'),
+         url('//at.alicdn.com/t/font_2963695_8tkqt76h90b.ttf?t=1637766616751') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-faxian:before {
+    content: "\e608";
+  }
+  
+  .icon-tongji:before {
+    content: "\e65b";
+  }
+  
+  .icon-wode:before {
+    content: "\e70e";
+  }
+  
+  .icon-tongjitu:before {
+    content: "\e60a";
+  }
+  
+  .icon-tongji1:before {
+    content: "\e61a";
+  }
+  
+  .icon-faxian1:before {
+    content: "\e6bd";
+  }
+  
+  .icon-ziyuan:before {
+    content: "\e61c";
+  }
+  
+  .icon-tongji2:before {
+    content: "\e64d";
+  }
+  
+  .icon-faxian2:before {
+    content: "\e61d";
+  }
+  
+  .icon-wode1:before {
+    content: "\e61f";
+  }
+  
+  .icon-daka:before {
+    content: "\f226";
+  }
+  
+  .icon-daka1:before {
+    content: "\f4d3";
+  }
+  
+  .icon-daka2:before {
+    content: "\fb88";
+  }
+  
+  .icon-daka3:before {
+    content: "\fd89";
+  }
+  
